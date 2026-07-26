@@ -1,4 +1,4 @@
-# LifeOS Planner
+# LifeOS Productivity Dashboard
 
 A self-contained planning interface that explores daily task management, weekly organization, progress visibility, and responsive productivity workflows.
 
