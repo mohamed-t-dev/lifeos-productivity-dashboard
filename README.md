@@ -2,8 +2,6 @@
 
 A self-contained planning interface that explores daily task management, weekly organization, progress visibility, and responsive productivity workflows.
 
-[View the live demonstration](https://lifeos-orpin-nu.vercel.app)
-
 > Portfolio concept: LifeOS is a front-end demonstration. Tasks and settings remain local to the browser experience and are not synchronized with a production account.
 
 ## Highlights
