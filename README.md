@@ -6,7 +6,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F0DB4F?style=flat-square&logo=javascript&logoColor=111111)
 ![Interface](https://img.shields.io/badge/Interface-Desktop_Focused-5B5CE2?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Portfolio_Concept-18181B?style=flat-square)
+![Project](https://img.shields.io/badge/Project-Web_Experience-18181B?style=flat-square)
 
 </div>
 
@@ -18,7 +18,7 @@ LifeOS explores a calmer way to manage daily execution and weekly planning. Task
 
 | Focus | Contribution | Result |
 | --- | --- | --- |
-| Make a dense planner feel focused and actionable | Interface design, HTML/CSS/JavaScript implementation, interaction states, motion, accessibility, and documentation | A self-contained planning demonstration with connected Today, Week, progress, and preference states |
+| Make a dense planner feel focused and actionable | Interface design, HTML/CSS/JavaScript implementation, interaction states, motion, accessibility, and documentation | A self-contained planning experience with connected Today, Week, progress, and preference states |
 
 ## Interface preview
 
@@ -38,9 +38,9 @@ LifeOS explores a calmer way to manage daily execution and weekly planning. Task
 ## Design and engineering
 
 - The project is intentionally self-contained in <code>index.html</code> for quick review without a build step.
-- Browser-local state and deterministic demonstration data keep the experience safe to explore.
+- Browser-local state and deterministic sample data keep the experience safe to explore.
 - The layout prioritizes dense desktop planning workflows, with clear messaging on smaller screens.
-- Automated integrity tests cover required semantics, identifier uniqueness, and portfolio-language constraints.
+- Automated integrity tests cover required semantics, identifier uniqueness, and content-language constraints.
 
 ## Technology
 
@@ -62,9 +62,9 @@ npm test
 
 GitHub Actions runs the integrity checks for every pushed branch and pull request.
 
-## Project note
+## Data note
 
-> LifeOS is a front-end portfolio demonstration. Tasks and settings remain local to the browser and are not synchronized with a production account.
+> Tasks and settings remain local to the browser and are not synchronized with an online account.
 
 ## Assets and usage
 
