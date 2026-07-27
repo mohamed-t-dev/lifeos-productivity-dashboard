@@ -58,12 +58,6 @@ npm test
 
 GitHub Actions runs the integrity checks for every pushed branch and pull request.
 
-## Limitations
-
-- Designed for desktop and laptop screens
-- No production account, cloud synchronization, reminders, or external calendar connection
-- Demonstration tasks and projections are fictional
-
 ## Assets and reuse
 
 See [ASSETS.md](ASSETS.md) for asset notes and [LICENSE](LICENSE) for reuse terms.
